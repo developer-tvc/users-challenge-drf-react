@@ -1,0 +1,23 @@
+@import 'carbon-components/scss/globals/scss/styles.scss';
+.bx--btn--primary{
+  background-color: #3d70b2;
+}
+.bx--btn--primary:hover{
+  background-color: #3a5f91;
+}
+.bx--batch-actions {
+  background-color: #3d70b2;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
